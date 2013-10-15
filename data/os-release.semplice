@@ -1,7 +1,7 @@
-NAME=Semplice
+NAME=Semplice Pi
 VERSION="5.1"
-ID=semplice
+ID=semplice-pi
 VERSION_ID=5.1
-PRETTY_NAME="Semplice 5.1 (High Hopes)"
-HOME_URL="http://semplice-linux.org"
-BUG_REPORT_URL="https://github.com/semplice"
+PRETTY_NAME="Semplice Pi 5.1 (High Hopes)"
+HOME_URL="http://semplice-linux.org/pi"
+BUG_REPORT_URL="https://github.com/semplice-pi"
