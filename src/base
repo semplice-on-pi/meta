@@ -23,8 +23,6 @@ locales
 eject
 ppp
 ntp
-lvm2
-cryptsetup
 ntfs-3g
 fatresize
 dosfstools
